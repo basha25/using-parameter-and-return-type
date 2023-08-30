@@ -15,6 +15,7 @@ namespace FunctionExample
             Program program = new Program();  
             string message = program.Show("Rahul Kumar");  
             Console.WriteLine("Hello "+message);  
+            Console.ReadLine();
         }  
     }  
 }  
